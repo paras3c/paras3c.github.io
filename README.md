@@ -3,6 +3,6 @@
 I'm a Computer Science Engineering Student, Music Producer, Graphic Designer and a Noob Dev. I love Tech Stuffs, so joining GitHub to get more knowledge about languages, **PRACTICAL KNOWLEDGE**
 ## Programming Languages:
 
-- **Languages learnt: C++, Python :snake:, **
+- **Languages learnt: C++, Python :snake:**
  
 - **Currently learning: C#, JavaScript, Java etc**
